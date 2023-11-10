@@ -1,15 +1,15 @@
 # jikken3-jetson71
 
- 1.[Infomation](#Infomation)
- 2.[Codes](#Codes)
+1.[Infomation](#Infomation)
+2.[Codes](#Codes)
 
 ## Infomation
 
- 1.Wifi
- '''bash
-   Location : jikken2_5G
-   Password : jetson-3
- '''
+1.Wifi
+'''bash
+Location : jikken2_5G
+Password : jetson-3
+'''
  
  2.Jetson nano
    jetson@192.168.11.71
