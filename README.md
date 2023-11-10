@@ -10,6 +10,7 @@
 Location : jikken2_5G
 Password : jetson-3
 '''
+
 2. Jetson nano
 jetson@192.168.11.71
 Password : jetson
